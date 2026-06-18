@@ -1,4 +1,14 @@
-
+---
+title: ScamShield AI
+emoji: 🛡️
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: 4.44.1
+app_file: app.py
+pinned: false
+license: mit
+---
 # 🛡️ ScamShield AI
 
 **Paste any suspicious SMS, email, WhatsApp message, or call transcript — in English, Hindi, or Hinglish — and instantly find out if it's a scam, *why*, and *what to do about it*.**
