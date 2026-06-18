@@ -1,15 +1,3 @@
----
-title: ScamShield AI
-emoji: 🛡️
-colorFrom: indigo
-colorTo: blue
-sdk: gradio
-sdk_version: 4.44.1
-app_file: app.py
-pinned: false
-license: mit
-short_description: AI scam & fraud detector for SMS, email, WhatsApp & calls (EN/HI/Hinglish)
----
 
 # 🛡️ ScamShield AI
 
